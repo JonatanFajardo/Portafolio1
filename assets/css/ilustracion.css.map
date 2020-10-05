@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACA,AAAA,YAAY,CAAA;EACR,UAAU,EAAE,MAAM;CAMrB;;AAPD,AAEI,YAFQ,CAER,IAAI,CAAA;EACA,OAAO,EAAE,MAAM;EACf,SAAS,EAAE,GAAG;CAEjB;;AAEL,AACI,SADK,CACL,CAAC,CAAA;EACG,UAAU,EAAE,MAAM;CACrB;;AAHL,AAII,SAJK,CAIL,CAAC,CAAA;EACG,KAAK,EAAE,gBAAgB;CACxB;;AAIP;;;IAGI",
+    "sources": [
+        "ilustracion.scss"
+    ],
+    "names": [],
+    "file": "ilustracion.css"
+}
